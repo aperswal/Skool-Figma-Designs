@@ -1,5 +1,8 @@
 # Welcome to the Skool Marketplace!
 
+## View Mockup
+https://www.figma.com/file/zSFi79z0vn4nYw07VRNZTV/Skool-Plugin%2FApp-Marketplace?type=design&node-id=0%3A1&mode=design&t=0GGv5F1nPn6ydWSW-1
+
 ## What is the Skool Marketplace?
 The Skool Marketplace is a place where you can find tools called plugins that make your Skool community even better. These plugins help you do all sorts of things, like planning events, making quizzes, or writing blog posts.
 
