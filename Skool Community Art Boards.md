@@ -4,6 +4,11 @@
 
 The Skool Community Art Boards are a visual and engaging way to showcase community activity and recognize top contributors. These boards use colorful and dynamic displays to highlight diverse discussions, top user contributions, and the vibrancy of the community.
 
+## Mockup
+
+View the design mockup for the Skool Community Art Boards here:
+[Skool Community Art Boards Mockup](https://www.figma.com/file/I6FmOTd9S80Xt6yWzy7Rjb/Skool-Community-Art-Boards?type=design&mode=design&t=mgdstQjGOcGd355t-1)
+
 ## Features
 
 ### Visual Engagement
@@ -22,11 +27,4 @@ The Skool Community Art Boards are a visual and engaging way to showcase communi
 ### Community Visualization
 - Unlike traditional data presentations, this approach uses a creative, visual method to display community data, making it more accessible and engaging for users.
 
-## Mockup
 
-View the design mockup for the Skool Community Art Boards here:
-[Skool Community Art Boards Mockup](https://www.figma.com/file/I6FmOTd9S80Xt6yWzy7Rjb/Skool-Community-Art-Boards?type=design&mode=design&t=mgdstQjGOcGd355t-1)
-
-## Implementation
-
-This feature could be implemented using a combination of backend data handling to track user activity and a frontend display that updates dynamically. Considerations for ensuring scalability and performance will be crucial as community interaction increases.
